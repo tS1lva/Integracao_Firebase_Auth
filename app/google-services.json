@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18358474408",
+    "project_id": "integracao-firebase-8fd04",
+    "storage_bucket": "integracao-firebase-8fd04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18358474408:android:4c20e7d88032c3d68d549d",
+        "android_client_info": {
+          "package_name": "br.com.ntegracaofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIsgcizgy708Drjv9pVOMNfi-NracUL88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
